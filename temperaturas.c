@@ -1,5 +1,5 @@
 #include <stdio.h>
-int temps[5];
+char temps[5];
 int main (void){
 	
 	int temp,soma,i,cont;
